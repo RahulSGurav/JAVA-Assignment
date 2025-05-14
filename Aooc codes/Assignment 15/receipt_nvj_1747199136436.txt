@@ -1,0 +1,7 @@
+--------- Payment Receipt ---------
+Date: 2025-05-14 10:35:36
+Student ID: nvj
+Student Name: jns
+Total Amount Paid: $8460.00
+-----------------------------------
+
